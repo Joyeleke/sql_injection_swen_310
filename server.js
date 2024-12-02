@@ -78,9 +78,3 @@ app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
 
-/** 
- * Todo
- * - Find out how to package it using docker
- * - Make a more complex table (or make it the same as the one in the examples)
- * - add a way to start to package.json
-*/
