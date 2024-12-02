@@ -34,7 +34,7 @@ To start the application, run:
 npm start
 ```
 
-Once the server is running, open your browser and go to http://localhost:3000.
+Once the server is running, open your browser and go to http://localhost:3001.
 
 ## Features
 - Vulnerable Application: Demonstrates SQL Injection vulnerabilities.
