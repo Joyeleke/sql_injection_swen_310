@@ -31,7 +31,6 @@ Ensure you have Node.js installed.
 To start the application, run:
 
 ```bash
-Copy code
 npm start
 ```
 
@@ -46,7 +45,7 @@ Once the server is running, open your browser and go to http://localhost:3000.
 To prevent SQL injections, use:
 
 - Prepared Statements: Use parameterized queries to prevent manipulation.
-- ORMs: Use an ORM like Sequelize to manage queries securely.\
+- ORMs: Use an ORM like Sequelize to manage queries securely.
 
 ## License
 This project is licensed under the MIT License.
