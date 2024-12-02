@@ -49,3 +49,49 @@ To prevent SQL injections, use:
 
 ## License
 This project is licensed under the MIT License.
+
+## SQLite Dependency
+
+This project uses SQLite as the database. Ensure SQLite is properly installed, and configure your environment if needed. To install the SQLite Node.js package, run:
+
+```bash
+npm install sqlite3
+```
+
+### SQLite Version
+
+This project has been tested with the following version of SQLite:
+
+```bash
+sqlite3@5.1.6
+```
+
+## Updated Dependencies
+
+Ensure you also have the following dependencies installed and included in `package.json`:
+
+1. Express - `express@4.18.2`
+2. SQLite - `sqlite3@5.1.6`
+
+If not present, install them manually:
+
+```bash
+npm install express sqlite3
+```
+
+## Node.js Requirements
+
+The project requires Node.js version **16.0.0 or higher**. Check your current Node.js version using:
+
+```bash
+node -v
+```
+
+Update Node.js if necessary from [Node.js Official Website](https://nodejs.org).
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
